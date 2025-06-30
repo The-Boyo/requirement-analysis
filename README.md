@@ -26,4 +26,31 @@
 ### Non-Functional Requirements
     - Master-slave architecture to reduce the load in the database
     - Using Redis for data caching
-    - 
+
+## Use Case Diagrams
+    Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+### Importance of Use Case Diagrams
+    - Provide a clear visual representation of system functionalities.
+    - Help in identifying and organizing system requirements.
+    - Facilitate communication among stakeholders and development team.
+
+## Acceptance Criteria
+    An acceptance criteria is important because it ensure all parties have a clear understanding of feature requirements and provides a basis for testing and validation. In addition, it helps in maintaining quality and meeting user expectations.
+### Acceptance Criteria for a checkout
+    - It must show the user the selected bookings name, date, price per night and total cost. 
+    - It should allow the user to change the date or number of guests.
+    - Payment option with different payment methods.
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
